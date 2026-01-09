@@ -664,7 +664,13 @@ def visualize_feature_importance(self):
 
 #### Generated Visualization:
 
-![Feature Importance](outputs/visualization_feature_importance.png)
+<img width="3890" height="1468" alt="visualization_class_distribution" src="https://github.com/user-attachments/assets/3204de7a-bacf-4ca2-bd5c-df83ba218a71" />
+
+<img width="2813" height="2358" alt="visualization_confusion_matrix" src="https://github.com/user-attachments/assets/7555c0c3-4c4e-4e78-8a93-8ca3691e14b7" />
+
+<img width="4737" height="1787" alt="visualization_feature_importance" src="https://github.com/user-attachments/assets/f96ff934-f2a6-4320-9702-1a16e66a6a05" />
+
+
 
 #### Insights:
 
@@ -740,95 +746,9 @@ This spam classifier can be used for:
 
 ---
 
-## 9. How to Run
-
-### Prerequisites
-```bash
-# Python 3.7 or higher required
-python --version
-```
-
-### Required Libraries
-
-Install dependencies:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
-
-Or use requirements.txt:
-```bash
-pip install -r requirements.txt
-```
-
-### Project Structure
-```
-SpamEmailDetection/
-├── spamEmailDetection.py          # Main application
-├── t_tchabukiani25_16928.csv      # Dataset
-├── outputs/                        # Generated visualizations
-│   ├── visualization_class_distribution.png
-│   ├── visualization_confusion_matrix.png
-│   └── visualization_feature_importance.png
-└── README.md                       # This file
-```
-
-### Running the Application
-
-#### Option 1: Run from Command Line
-```bash
-python spamEmailDetection.py
-```
-
-#### Option 2: Run in PyCharm
-
-1. Open `spamEmailDetection.py` in PyCharm
-2. Right-click → "Run 'spamEmailDetection'"
-3. Or press `Ctrl+Shift+F10` (Windows/Linux) or `Cmd+Shift+R` (Mac)
-
-### Expected Output
-
-The program will:
-
-1. ✅ Load and process the dataset
-2. ✅ Train the logistic regression model
-3. ✅ Validate on test data and display metrics
-4. ✅ Generate three visualizations in `outputs/` folder
-5. ✅ Classify two example emails (spam and legitimate)
-
-### Sample Console Output
-```
-============================================================
- EMAIL SPAM CLASSIFICATION SYSTEM
- Using Logistic Regression
-============================================================
-
-Dataset loaded successfully!
-Total samples: 2500
-
-Model trained successfully!
-Accuracy: 0.9653 (96.53%)
-
-✓ Visualization saved: outputs/visualization_class_distribution.png
-✓ Visualization saved: outputs/visualization_confusion_matrix.png
-✓ Visualization saved: outputs/visualization_feature_importance.png
-
-Final Classification: SPAM (100.00% confidence)
-Final Classification: LEGITIMATE (99.99% confidence)
-
-CLASSIFICATION SYSTEM COMPLETED SUCCESSFULLY
-```
-
----
-
-## 📝 License
-
-This project is created for educational purposes.
-
----
-
 ## 👨‍💻 Author
 
-**Student Project** - Machine Learning Course
+**Student Project** - Tornike Tchabukiani
 
 ---
 
@@ -836,10 +756,9 @@ This project is created for educational purposes.
 
 - Dataset: Email spam features dataset
 - Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn
-- Model: Logistic Regression (supervised learning)
+- Model: Logistic Regression 
 
 ---
 
-**Last Updated**: January 2026
 
 
