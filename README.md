@@ -124,6 +124,6 @@ Based on the calculation:
 
 ## The Visualization
 
-<img width="1428" height="682" alt="Screenshot 2025-12-29 at 17 16 34" src="https://github.com/user-attachments/assets/d020bbaf-3a83-4573-953d-119a863da982" />
+<img width="1000" height="600" alt="Linear regression Graph" src="https://github.com/user-attachments/assets/1ea64f6d-2844-4abe-ad5f-d1263be4ff15" />
 
 
