@@ -572,7 +572,7 @@ def visualize_class_distribution(self):
 
 #### Generated Visualization:
 
-![Class Distribution](outputs/visualization_class_distribution.png)
+<img width="3890" height="1468" alt="visualization_class_distribution" src="https://github.com/user-attachments/assets/3204de7a-bacf-4ca2-bd5c-df83ba218a71" />
 
 #### Insights:
 
@@ -616,7 +616,7 @@ def visualize_confusion_matrix(self, cm):
 
 #### Generated Visualization:
 
-![Confusion Matrix](outputs/visualization_confusion_matrix.png)
+<img width="2813" height="2358" alt="visualization_confusion_matrix" src="https://github.com/user-attachments/assets/7555c0c3-4c4e-4e78-8a93-8ca3691e14b7" />
 
 #### Insights:
 
@@ -664,13 +664,7 @@ def visualize_feature_importance(self):
 
 #### Generated Visualization:
 
-<img width="3890" height="1468" alt="visualization_class_distribution" src="https://github.com/user-attachments/assets/3204de7a-bacf-4ca2-bd5c-df83ba218a71" />
-
-<img width="2813" height="2358" alt="visualization_confusion_matrix" src="https://github.com/user-attachments/assets/7555c0c3-4c4e-4e78-8a93-8ca3691e14b7" />
-
 <img width="4737" height="1787" alt="visualization_feature_importance" src="https://github.com/user-attachments/assets/f96ff934-f2a6-4320-9702-1a16e66a6a05" />
-
-
 
 #### Insights:
 
@@ -746,13 +740,13 @@ This spam classifier can be used for:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Student Project** - Tornike Tchabukiani
+**Student** - Tornike Tchabukiani
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset: Email spam features dataset
 - Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn
