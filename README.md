@@ -127,15 +127,9 @@ Based on the calculation:
 <img width="1000" height="600" alt="Linear regression Graph" src="https://github.com/user-attachments/assets/1ea64f6d-2844-4abe-ad5f-d1263be4ff15" />
 
 
-
-
-
-
-
-
-
-
-
+---
+---
+---
 
 # Email Spam Classification System
 
